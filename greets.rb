@@ -1,3 +1,3 @@
-def my_fav_phrase
-  puts "Butt Cheeks"
+2)
+  I love my niggas #
 end
